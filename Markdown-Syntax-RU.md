@@ -1044,5 +1044,4 @@ Content Cell  | Content Cell
 
 [Спойлеры GitHub - gist.github.com](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
 
-
-
+[Convert JSON Array to Markdown Table](https://tableconvert.com/json-to-markdown)
