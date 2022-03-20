@@ -989,6 +989,8 @@ Content Cell  | Content Cell
 
 Большой список эмодзи, разбитый по категориям, [можно посмотреть здесь](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
+Для генерации текстовой полосы прогресса, можно воспользоваться [этой страницей](https://changaco.oy.lc/unicode-progress-bars/).
+
 ## Клавиши на клавиатуре
 
 В GitHub Flavored Markdown для представления клавиш на клавиатуре можно использовать тег `<kbd>`:
