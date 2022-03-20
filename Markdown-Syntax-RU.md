@@ -939,18 +939,19 @@ Content Cell  | Content Cell
 
 ## Юникод-символы и эмодзи
 
-В тексте можно использовать любые Unicode-символы. Многие их них будут заменены на картинки:
+В тексте можно использовать как обычные Unicode-символы, так и emoji-шорткоды:
 
 `Код:`
 
 ```
  **Полоса прогресса:**  
 
-⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ 30,18%
+⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ 30,18%  
+:black_large_square::black_large_square::black_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: 30,18%  
 
-✅ = Сделать  
-⏳ = В процессе  
-▶️ = Сделано  
+✅ = Сделать = :white_check_mark:  
+⏳ = В процессе = :hourglass_flowing_sand:  
+▶️ = Сделано = :arrow_forward:  
 ```
 
 
@@ -959,31 +960,34 @@ Content Cell  | Content Cell
 ---
  **Полоса прогресса:**  
 
-⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ 30,18%
+⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ 30,18%  
+:black_large_square::black_large_square::black_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: 30,18%  
 
-✅ = Сделать  
-⏳ = В процессе  
-▶️ = Сделано  
+✅ = Сделать = :white_check_mark:  
+⏳ = В процессе = :hourglass_flowing_sand:  
+▶️ = Сделано = :arrow_forward:  
 
 ---
 <br>
 
-Можно так же использовать стандартные эмодзи GitHub [из этого списка](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):
+Так же у GitHub есть шорткоды [для собственных нестандартных эмодзи](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#github-custom-emoji), не входящих в состав Unicode. Они автоматичемки заменяются картинками:
 
 `Код:`
 
 ```
-:smile::joy::laughing:
+:octocat: :atom: :electron: :basecamp: :basecampy: :bowtie: :neckbeard: :shipit: :trollface: :suspect: :hurtrealbad: :feelsgood: :goberserk: :finnadie: :rage1: :rage2: :rage3: :rage4: :godmode:
 ```
 
 
 `Результат:`
 
 ---
-:smile::joy::laughing:
+:octocat: :atom: :electron: :basecamp: :basecampy: :bowtie: :neckbeard: :shipit: :trollface: :suspect: :hurtrealbad: :feelsgood: :goberserk: :finnadie: :rage1: :rage2: :rage3: :rage4: :godmode:
 
 ---
 <br>
+
+Большой список эмодзи, разбитый по категориям, [можно посмотреть здесь](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## Клавиши на клавиатуре
 
